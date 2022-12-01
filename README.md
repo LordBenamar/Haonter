@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Haonter">
-    <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" width="320px" alt="Diego Rodriguez" />
+    <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" width="650px" alt="Diego Rodriguez" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+## :hammer_and_wrench: Technologies and Tools I use
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -38,3 +38,7 @@
   <a href="https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170 " target="_blank"> <img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" alt="Lenguaje C" width="40"/> </a>
 <a href="https://wordpress.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/1200px-WordPress.svg.png" alt="WordPress" width="60"/> </a>
 </p>
+
+## 📊 Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haonter&layout=compact&hide_border=true&border_radius=20&title_color=ffffff&text_color=ffffff&bg_color=DEG,001f34,00709a,001f34&&card_width=600px)
+
