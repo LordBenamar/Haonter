@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Haonter">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Full-Stack%20Web%20Developer;I%20have%20knowledge%20about:;HTML,%20CSS,%20SASS,%20PHP;JavaScript,%20React,%20Node,%20Express;%20MongoDB,%20MySQL,%20C%20and%20WordPress;I%20like%20to%20code%20and;%20learn%20new%20things%20everytime!;Actually%20i'm%20working%20from%20home;%20and%20still%20learning%20👨🏻‍💻&font=Fira%20Code&center=true&width=550&color=0a94b2&vCenter=true&pause=200&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Full-Stack%20Web%20Developer;☝🏻%20I%20have%20knowledge%20about;HTML,%20CSS,%20SASS,%20PHP;JavaScript,%20React,%20Node,%20Express;%20MongoDB,%20MySQL,%20C%20and%20WordPress;I%20like%20to%20code,%20the%20Metal%20music%20🤘🏻%20and;%20learn%20new%20things%20everytime!;Currently%20i'm%20working%20from%20home;%20and%20still%20learning%20👨🏻‍💻&font=Fira%20Code&center=true&width=550&color=0a94b2&vCenter=true&pause=200&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -34,6 +34,6 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/ " target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170 " target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="postman" width="40"/> </a>
+  <a href="https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170 " target="_blank"> <img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" alt="postman" width="40"/> </a>
 <a href="https://wordpress.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/1200px-WordPress.svg.png" alt="WordPress" width="60"/> </a>
 </p>
